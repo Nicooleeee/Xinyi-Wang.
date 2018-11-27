@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Taylor Swift Fan Page</title>
+		<style>
+		Taylor Swift Fan Page{text-align:center} 
+        </style> 
+    </head>
+    <body>  
+        <h1>Welcome to Taylor Swift's unofficial site</h1>  
+        <p>Hers's Taylor Swift's fan page, if you are her big fan, please join us.</p>
+		<h2>Important Time style="background-color:red;"</h2>
+		<p><i>Dec 13, 1989</i> - Taylor's birthday</p>
+		<a href="https://en.wikipedia.org/wiki/File:Taylor_Swift_-_1989.png"><img src="1989.jpg" alt="Taylor_Swift_-_1989" /></a>
+		<h3>Albums</h3>
+	<table border="1">		
+<tr>
+		<th>Year</th>
+		<th>Album Name</th>
+		</tr>
+        <tr>
+		<td>2006</td>
+		<td>Taylor Swift</td>
+		</tr>
+		<tr>
+		<td>2008</td>
+		<td>Fearless</td>
+		</tr>
+		<tr>
+		<td>2010</td>
+		<td>Speak Now</td>
+		</tr>
+		<tr>
+		<td>2012</td>
+		<td>Red</td>
+		</tr>
+		<tr>
+		<td>2014</td>
+		<td>1989</td>
+		</tr>
+		<tr>
+		<td>2017</td>
+		<td>Reputation</td>
+		</tr>
+		</table>
+    </body>
+</html>
